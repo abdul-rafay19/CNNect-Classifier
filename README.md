@@ -1,4 +1,4 @@
-# CNNect-Classifier 🚀  
+# CNNect-Classifier
 **Abdul Rafay** | BS Software Engineering
 
 CNNect-Classifier is a deep learning-powered web application that performs real-time image classification on the CIFAR-10 dataset. Built as part of my Machine Learning Internship at Intern Intelligence, this project represents a complete end-to-end pipeline — from model training to deployment — wrapped inside a user-friendly interface.
